@@ -1,0 +1,16 @@
+{
+  "id": "google-shoppinglist",
+  "name": "ShoppingList by Google",
+  "version": "1.0.1",
+  "description": "Google Shopping List recipe for Franz 5 or later",
+  "main": "index.js",
+  "author": "sharkpp <webmaster@sharkpp.net>",
+  "license": "MIT",
+  "repository": "https://github.com/sharkpp/franz-recipe-google-shoppinglist",
+  "config": {
+    "serviceURL": "https://shoppinglist.google.com/",
+    "hasTeamId": false,
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false
+  }
+}
